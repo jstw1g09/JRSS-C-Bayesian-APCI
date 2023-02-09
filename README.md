@@ -3,13 +3,15 @@
 
 ## Data
 
-The data chosen for illustrative purposes in this paper are the female death data and the corresponding exposures for England and Wales, extracted from the Human Mortality Database (HMD). They are classified by single year of age from 0 to 99, and years ranging from 1961 to 2002.
+The data chosen for illustrative purposes in this paper are the female death data and the corresponding exposures for England and Wales, extracted from the Human Mortality Database (HMD). They are classified by single year of age from 0 to 99, and years ranging from 1961 to 2002. They are respectively contained in the files "1x1EWdeath.txt" and "1x1EWexposure.txt".
+
+Also provided are the *holdout data* corresponding to female death and exposure data spanning years 2003-2016, stored respectively in the files "1x1EWdeath_validation_correct.txt" and "1x1EWexposure_validation_correct.txt".
 
 These data were extracted from the following resources available in the public domain: https://www.mortality.org/
 
 ## Code
 
-The code for the MCMC algorithms, simulations studies, and various computations, presented in the paper has been written in R. This is stored in the file "Bayesian_model_compare_MF_Rcode_final.R".
+The code for the MCMC algorithms, simulations studies, and various Bayesian computations, presented in the paper has been written in R. This is stored in the file "Bayesian_model_compare_MF_Rcode_final.R".
 
 
 
