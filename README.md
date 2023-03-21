@@ -13,7 +13,7 @@ These data were extracted from the following resources available in the public d
 
 The code for the MCMC algorithms, simulations studies, and various Bayesian computations, presented in the paper has been written in `R`. This is stored in the file "Bayesian_model_compare_MF_Rcode_final.R".
 
-For more info, please refer to the paper [DOI link to be included].
+For more info, please refer to the paper [https://doi.org/10.1093/jrsssc/qlad021].
 
 ## References
 
