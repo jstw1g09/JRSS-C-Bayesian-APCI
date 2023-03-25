@@ -18,3 +18,5 @@ For more info, please refer to the paper [https://doi.org/10.1093/jrsssc/qlad021
 ## References
 
 HMD. Human Mortality Database. Max Planck Institute for Demographic Research (Germany), University of California, Berkeley (USA), and French Institute for Demographic Studies (France). 
+
+Jackie S T Wong, Jonathan J Forster, Peter W F Smith, Bayesian model comparison for mortality forecasting, *Journal of the Royal Statistical Society Series C: Applied Statistics*, 2023;, qlad021, https://doi.org/10.1093/jrsssc/qlad021
